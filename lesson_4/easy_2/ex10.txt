@@ -1,0 +1,3 @@
+The advantages of OOP are many. It leads to more flexible code; less repitition; aids with the conceptual understanding
+of a problem; allows encapsulation so only some parts of the code have access to certain data; allows larger and
+more complex programs to be built; and helps long term sustainability of code.
