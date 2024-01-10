@@ -1,3 +1,10 @@
-Welcome to the course exercises and problems for
-Launch School's RB120 Object Oriented Programming
-module.
+## Object Oriented Ruby
+
+Exercises focused on object oriented programming in Ruby.
+
+Topics include:
+- classes
+- inheritance
+- polymorphism
+- encapsulation
+- abstraction
